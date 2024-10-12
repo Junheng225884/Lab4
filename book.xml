@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book id="1">
+    <title>Effective Java</title>
+    <author>Joshua Bloch</author>
+    <price>45.00</price>
+  </book>
+  <book id="2">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <price>50.00</price>
+  </book>
+  <book id="3">
+    <title>The Pragmatic Programmer</title>
+    <author>Andy Hunt, Dave Thomas</author>
+    <price>42.50</price>
+  </book>
+</catalog>
+
+
